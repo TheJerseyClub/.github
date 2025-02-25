@@ -7,9 +7,9 @@ The Jersey Club is a community focused on building real-world projects in **soft
 ---
 
 ## 🔥 What We Do  
-✅ **AI & Software Development** – Creating real-world applications.  
-✅ **Collaborative & Independent Projects** – Innovating together and individually.  
-✅ **Building, Not Just Learning** – Turning ideas into working products.  
+ **AI & Software Development** – Creating real-world applications.  
+ **Collaborative & Independent Projects** – Innovating together and individually.  
+ **Building, Not Just Learning** – Turning ideas into working products.  
 
 ---
 
